@@ -1,8 +1,56 @@
-# React + Vite
+Addy CCTV Shop is a fully responsive, modern, and professional website built using React.js, Tailwind CSS, React Router DOM, and React Icons. This website is designed for CCTV camera shops, security service providers, and installation businesses.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It includes all essential sections such as:
 
-Currently, two official plugins are available:
+🏠 Home Page
+
+⭐ Why Choose Us
+
+🛒 Products (CCTV Cameras, DVR, NVR, Accessories)
+
+🛠 Services
+
+👥 Our Clients (Auto-scroll slider)
+
+📞 Contact Form with map
+
+📍 Integrated Google Map (No API key required)
+
+📄 Footer with Social Links
+
+The design is clean, fast, and mobile-friendly.
+
+📌 Features
+
+⚡ Fast & Responsive
+
+🎨 Tailwind CSS for modern UI
+
+🌐 React Router Navigation
+
+📸 Client Logo Slider
+
+🗺 Clickable Full-Width Map
+
+📝 Contact Form
+
+📱 Mobile-first design
+
+💼 Perfect for CCTV Camera Shop business
+
+📌 Tech Stack
+
+React.js
+
+Tailwind CSS
+
+React Icons
+
+React Router DOM
+
+JavaScript (ES6+)
+
+
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
