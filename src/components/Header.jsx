@@ -7,7 +7,7 @@ export default function Header() {
     <header className="shadow bg-white sticky top-0 z-50">
       <nav className="container mx-auto flex justify-between items-center py-2 px-4">
         <Link to="/" className="text-2xl font-bold text-blue-600">
-          <img src={logo} alt="Addy CCTV Shop Logo"  className="w-60 h-18 rounded-xl "/>
+          <img src={logo} alt="Addy CCTV Shop Logo"  className="w-60 h-16 rounded-xl "/>
         </Link>
 
         <ul className="hidden md:flex gap-8 text-lg font-medium items-center">
