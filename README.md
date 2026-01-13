@@ -1,4 +1,4 @@
-Addy CCTV Shop is a fully responsive, modern, and professional website built using React.js, Tailwind CSS, React Router DOM, and React Icons. This website is designed for CCTV camera shops, security service providers, and installation businesses.
+Cctv Home System Shop is a fully responsive, modern, and professional website built using React.js, Tailwind CSS, React Router DOM, and React Icons. This website is designed for CCTV camera shops, security service providers, and installation businesses.
 
 It includes all essential sections such as:
 
