@@ -1,7 +1,7 @@
 import { FaFacebookF, FaLinkedinIn, FaBehance, FaPhoneAlt } from "react-icons/fa";
 import { TbBrandX } from "react-icons/tb";
 import { FaLocationDot, FaEnvelope } from "react-icons/fa6";
-import logo from "../assets/addy-cctv-logo.png";
+import logo from "../assets/cctv-logo.png";
 
 export default function Footer() {
   return (
@@ -10,7 +10,7 @@ export default function Footer() {
 
         {/* ------- Company Info ------- */}
         <div>
-          <img src={logo} alt="Addy CCTV Shop Logo"  className="w-70 h-30 rounded-xl "/>
+          <img src={logo} alt=" Cctv home system Logo"  className="w-30 h-18 rounded-xl"/>
           <p className="text-gray-400 text-xl leading-relaxed">
             We provide reliable CCTV installation, security systems, and
             surveillance solutions for homes, shops, offices, and businesses.
@@ -96,7 +96,7 @@ export default function Footer() {
 
       {/* -------- Bottom Bar -------- */}
       <div className="border-t border-gray-700 mt-12 pt-6 text-center text-gray-500">
-        © {new Date().getFullYear()} Addy CCTV Shop — All Rights Reserved
+        © {new Date().getFullYear()} Cctv home system — All Rights Reserved
       </div>
     </footer>
   );
